@@ -1,0 +1,5 @@
+question,optionA,optionB,optionC,optionD,correctAnswer,subject,topic,difficulty,marks,negativeMarks,explanation
+What is 20% of 150?,20,25,30,35,C,Quantitative Aptitude,Percentages,easy,1,0.25,20% of 150 = 30
+A train 100 m long crosses a pole in 10 seconds. What is its speed in km/h?,30,36,40,45,B,Quantitative Aptitude,Speed and Distance,medium,1,0.25,Speed = 10 m/s = 36 km/h
+Choose the correct synonym of HAPPY,Sad,Joyful,Angry,Tired,B,English,Vocabulary,easy,1,0.25,Joyful means happy
+Fill in the blank: She ___ to school every day.,go,going,goes,gone,C,English,Grammar,easy,1,0.25,Singular subject takes goes
